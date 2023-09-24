@@ -16,6 +16,10 @@ public class JavaApplication {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println(" Attempt");
+        System.out.println(" Done Changes ");
+         System.out.println(" Second Changes ");
+        
+        
     }
     
 }
